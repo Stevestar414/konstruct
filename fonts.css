@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Bebas';
+    src: url(fonts/BebasNeue\ Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Sans';
+    src: url(fonts/static/OpenSans/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Sans-light';
+    src: url(fonts/static/OpenSans/OpenSans-Light.ttf);
+}
+
+@font-face {
+    font-family: 'Sans-bold';
+    src: url(fonts/static/OpenSans/OpenSans-Bold.ttf);
+}
